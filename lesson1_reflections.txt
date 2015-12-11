@@ -1,0 +1,7 @@
+By using Diff the differences between the old and the new file were shown and I was able to see the typo that was introduced by checking on the lines that were modified.
+By accesing the history of a file, I am able to dteermine what changes has the file had and restore to any previous version and test it if there is a problem.
+The Pros of manually choosing when to create a commit are that the programmer can choose commit to logical changes, making the changes easier to read. On the other hand by using versions automatically saved teh programmer avoids to have large chunks of code changes before commiting.
+Versions control like Git allow saving multiples files in one commit because some files might have interdependecies with other files in order to work properly. Google docs manages files that usually do not have dependencies with others.
+I can use git log to view the history of all files and I can use git diff to identify what changed between files.
+Using version control makes me feel moore confident while performing changes because i can restore the code to other state if I break something. Foe example, git checkout.
+I would like to use Git to compare code versions and maintain changes organized.
