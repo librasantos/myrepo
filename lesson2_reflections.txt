@@ -1,0 +1,2 @@
+When I initialize a repository, I create a pre-staging for files in git. These files are listed as untracked in the Master branch.
+Staging areas contains items to be commited. The working directory contains untracked files.
