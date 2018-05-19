@@ -1,0 +1,19 @@
+
+/* Aligns logo and name/title */
+.header{
+  .header__logo{
+    float: left;}
+  }
+
+#name{
+    float: right;
+    margin-top: 50px;
+}
+
+/* size properties for the main image */
+.profileimg{
+  width:100%;
+  height:450px;
+  margin-left:40px;
+  margin-right:40px;
+}
